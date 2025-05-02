@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d41300b1eee666e419ec0ad840ba5221, type: 3}
+  m_Name: Computer
+  m_EditorClassIdentifier: 
+  computerCanvasPrefab: {fileID: 6052867421059303957, guid: 4920ae20b620c324ca3a3216b2451203, type: 3}
+  gameplayCanvas: {fileID: 445148911213776833, guid: 0e5242d9b356c0745ae0d85b175671b3, type: 3}

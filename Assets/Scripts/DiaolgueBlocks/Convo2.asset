@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9977cd838c65f7845bc01a05fdb660eb, type: 3}
+  m_Name: Convo2
+  m_EditorClassIdentifier: 
+  lines:
+  - 'Jason: Hello?'
+  - '???: Hey Jason. It''s Kelly. '
+  - 'Jason: What do you want?'
+  - 'Kelly: I was just wondering how you are. We haven''t talked much. '
+  - 'Jason: I''m fine.'
+  - 'Kelly: Mom wanted to know if your sure you don''t want to go on the trip. '
+  - 'Jason: I don''t have time for trips. I have to find Olivia. '
+  - 'Kelly: I know. I know. But this is the first time in years the whole family
+    will be there. We wouldn''t want you to miss it. '
+  - 'Jason: Not everyone will be there... '
+  - 'Kelly: ... Our flight leaves tomorrow morning. I promised Mom I''d stop by one
+    last time on the way to the airport. '
+  - 'Kelly: It would be good for you Jason. You''ve been so stressed and you seem
+    like you need a vaction. '
+  - 'Kelly: Mom really wants you to be there. I want you to be there. Olivia was
+    really looking forward for the trip too. '
+  - 'Kelly: I sent you an email with the flight info. Please check it out. Everything
+    has already been paid for. I''ll swing by in the morning and you can carpool
+    last minute with me. '

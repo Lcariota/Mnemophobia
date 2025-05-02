@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9977cd838c65f7845bc01a05fdb660eb, type: 3}
+  m_Name: PhoneConvo1
+  m_EditorClassIdentifier: 
+  lines:
+  - 'Jason: Hello, This is Mr. Moore. '
+  - '???: Mr. Moore, this is Detective Johnson. Sorry for the late call... '
+  - 'Detective Johnson: Look Jason... It''s been months since Oliva went missing.
+    Kids are usually dead within the first 48 hours of going missing. '
+  - 'Detective Johnson: We all think that its time to move on. We haven''t gotten
+    any leads in weeks. I think it''s best for us to start accepting the truth. '
+  - 'Jason: The TRUTH?! The truth is that my daughter is still missing. I''m never
+    going to stop giving up finding her. I deserve the closure. '
+  - 'Detective Johnson: I know. But you''ve spent month drinking yourself to sleep.
+    You look like shit, drunk out of your mind. I think moving on would finally let
+    you get yourself together.'
+  - 'Detective Johnson: We might''ve lost Olivia but we can''t lose you too. '
+  - 'Jason: I can take care of myself Detective Johnson. '
+  - 'Detective Johnson: I''m just looking out for you as your friend... Listen Jason,
+    if we dont have any new leads by the end of the week, I''m going to close the
+    case. '
+  - 'Detective Johnson: You''re happy to tear her room apart looking for anything
+    new but I just can''t just be wasting the state''s money and man power. We have
+    other cases too. '
+  - 'Jason: Fine. I''ll look through her room again. I won''t give up on my daughter. '
